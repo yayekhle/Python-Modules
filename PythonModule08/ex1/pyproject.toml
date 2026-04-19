@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "matrix-project"
+version = "0.1.0"
+description = ""
+authors = ["you"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.25.0"
+pandas = "^2.1.0"
+matplotlib = "^3.7.2"
+requests = "^2.31.0"
